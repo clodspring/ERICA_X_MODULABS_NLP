@@ -8,10 +8,6 @@ MeCab 형태소 분석을 이용하여 텍스트를 전처리한 후, Mean Pooli
 
 추가로 Word2Vec으로 초기화한 Embedding을 BiGRU에 적용하여 성능 변화를 확인하고, 학습 곡선, 단어 벡터 유사도, Confusion Matrix 및 오분류 사례를 분석하였다.
 
-### 프로젝트 파일
-
-**[실습 Notebook 바로가기 — 04_NSMC_Sentiment_Analysis.ipynb](./04_NSMC_Sentiment_Analysis.ipynb)**
-
 ### 주요 개발 환경
 
 - Environment: Google Colab
